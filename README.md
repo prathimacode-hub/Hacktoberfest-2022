@@ -97,7 +97,7 @@ A Curated Collection of Awesome Python Scripts that will make you go wow. A ecst
 This kart showcases the finest collection of all projects based on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and many more. 
 
 
-## 👀Are You Frantic?
+## 👀Are You Feeling Overwhelmed?
 
 😨Does Open Source Projects listed above scares you. Are you a complete beginner and does it looks like a bump to your contributions. 
 
