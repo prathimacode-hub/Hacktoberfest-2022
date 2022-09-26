@@ -29,7 +29,7 @@ This repository showcases all the open source projects that had been plattered f
 
 **Languages** : Python, HTML, CSS & Javascript
 
-**Domains** : Machine Learning, Deep Learning, Web Development & Frameworks
+**Domains** : Django, Machine Learning, Deep Learning, Computer Vision, Web Development & Frameworks, Internet Of Things
 
 
 <h2>✔Join in</h2>
