@@ -1,6 +1,4 @@
-# Hacktoberfest-2022
-
-# 🙌Hacktober-Fest-2021
+# 🙌Hacktober-Fest-2022
 <div align="center">
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) 
