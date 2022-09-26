@@ -80,15 +80,15 @@ If this project helped you start with your open source journey or got you involv
 
 <h2>🔖Projects Overview</h2>
 
-1. **MedFlare**
+**1. MedFlare**
 
 An Amazing Spot to step your foot into this ocean of "Internet Of things". Dive deep and explore the fiesta of electronics. It's a cabin that would help you in mastering "Internet Of Things" and making your hands dirty while exploring. 
 
-2. **Treksy**
+**2. Treksy**
 
 A Curated Collection of Awesome Python Scripts that will make you go wow. A ecstatic pool of scripts for all pythoneers to get immersed in this language.
 
-3. **Ezy-Parking**
+**3. Ezy-Parking**
 
 This kart showcases the finest collection of all projects based on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and many more. 
 
