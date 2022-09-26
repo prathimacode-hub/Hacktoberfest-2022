@@ -93,6 +93,8 @@ A Curated Collection of Awesome Python Scripts that will make you go wow. A ecst
 This kart showcases the finest collection of all projects based on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and many more. 
 
 
+## 👀Are You Frantic?
+
 😨Does Open Source Projects listed above scares you. Are you a complete beginner and does it looks like a bump to your contributions. 
 
 **Note** : No worries, I'm here to help you out to make your familiar with tech stacks and added a upgraded star for your contributions.😊 
@@ -111,6 +113,7 @@ This project is a part of HacktoberFest 2022
  </td>
 </tr>
 </table>
+
 
 <h2>✨Hall Of Fame</h2>   
 
