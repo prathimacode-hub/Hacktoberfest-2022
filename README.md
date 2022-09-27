@@ -80,21 +80,25 @@ If this project helped you start with your open source journey or got you involv
 | 1. | [MedFlare](https://github.com/prathimacode-hub/MedFlare) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/MedFlare?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/MedFlare/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/MedFlare?style=social&logo=github)](https://github.com/prathimacode-hub/MedFlare/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/MedFlare?style=social&logo=github)](https://github.com/prathimacode-hub/MedFlare/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/MedFlare?style=flat-square&logo=git)](https://github.com/prathimacode-hub/MedFlare/network/members) |
 | 2. | [Treksy](https://github.com/prathimacode-hub/Treksy) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/Treksy?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/Treksy/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/Treksy?style=social&logo=github)](https://github.com/prathimacode-hub/Treksy/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/Treksy?style=social&logo=github)](https://github.com/prathimacode-hub/Treksy/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/Treksy?style=flat-square&logo=git)](https://github.com/prathimacode-hub/Treksy/network/members) |
 | 3. | [Ezy-Parking](https://github.com/prathimacode-hub/Ezy-Parking) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/Ezy-Parking?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/Ezy-Parking/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/Ezy-Parking?style=social&logo=github)](https://github.com/prathimacode-hub/Ezy-Parking/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/Ezy-Parking?style=social&logo=github)](https://github.com/prathimacode-hub/Ezy-Parking/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/Ezy-Parking?style=flat-square&logo=git)](https://github.com/prathimacode-hub/Ezy-Parking/network/members) |
-
+ | 4. | [FarmArk](https://github.com/prathimacode-hub/FarmArk) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/FarmArk?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/FarmArk/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/FarmArk?style=social&logo=github)](https://github.com/prathimacode-hub/FarmArk/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/FarmArk?style=social&logo=github)](https://github.com/prathimacode-hub/FarmArk/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/FarmArk?style=flat-square&logo=git)](https://github.com/prathimacode-hub/FarmArk/network/members) |
 
 <h2>🔖Projects Overview</h2>
 
 **1. MedFlare**
 
-An Amazing Spot to step your foot into this ocean of "Internet Of things". Dive deep and explore the fiesta of electronics. It's a cabin that would help you in mastering "Internet Of Things" and making your hands dirty while exploring. 
+MedFlare is a one stop solution for people who likes to get all the medical aid so that situations are answered promptly without any delay. This would help in saving out many lives especially in hassle conditions.
 
 **2. Treksy**
 
-A Curated Collection of Awesome Python Scripts that will make you go wow. A ecstatic pool of scripts for all pythoneers to get immersed in this language.
+Treksy is a full fledged travel app solution for unique experiences, offbeat explorations, customized planning and user-friendly booking system.
 
 **3. Ezy-Parking**
 
-This kart showcases the finest collection of all projects based on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and many more. 
+Ezy-Parking is a complete parking management system applying smart solutions for short time rental of empty spaces (Parking, Apartment, Office Spaces etc). This app is designed to helps users find safe, affordable and low cost parking to get rest easy while on a hustle.
+
+**4. FarmArk**
+
+FarmArk is an app designed for facilitation of farmers and address them with all the needed farming solutions for their greens to prosper and excel. 
 
 
 ## 👀Are You Feeling Overwhelmed?
