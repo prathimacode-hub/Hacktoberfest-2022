@@ -1,15 +1,23 @@
-# 🙌Hacktober-Fest-2022
 <div align="center">
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) 
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) 
-[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/prathimacode-hub)
-[![Maintenance](https://img.shields.io/maintenance/yes/2022)](https://github.com/prathimacode-hub)
-
-[![](https://badgen.net/github/stars/prathimacode-hub/Hacktoberfest-2022)](https://github.com/prathimacode-hub/Hacktoberfest-2022/stargazers)
-[![](https://badgen.net/github/forks/prathimacode-hub/Hacktoberfest-2022)](https://github.com/prathimacode-hub/Hacktoberfest-2022/network/members)
-
+  <h1>Welcome to Hacktober-Fest-2022 👋💪</h1>
 </div>
+
+<p align="center">
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Cover%20Photos/Hacktoberfest-2022.png"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github"></a> 
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green"></a> 
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square"></a>
+<a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/graphs/Hacktoberfest-2022"><img src="https://img.shields.io/github/contributors-anon/prathimacode-hub/Hacktoberfest-2022"></a>
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/maintenance/yes/2022"></a>
+</p> 
+
+<p align="center">
+<a href="https://github.com/prathimacode-hub/Hacktoberfest-2022/stargazers"><img src="https://badgen.net/github/stars/prathimacode-hub/Hacktoberfest-2022"></a>
+<a href="https://github.com/prathimacode-hub/Hacktoberfest-2022/network/members"><img src="https://badgen.net/github/forks/prathimacode-hub/Hacktoberfest-2022"></a>
+</p> 
 
 
 <h2>🤞What's HacktoberFest?</h2>
