@@ -89,6 +89,8 @@ If this project helped you start with your open source journey or got you involv
 | 2. | [Treksy](https://github.com/prathimacode-hub/Treksy) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/Treksy?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/Treksy/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/Treksy?style=social&logo=github)](https://github.com/prathimacode-hub/Treksy/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/Treksy?style=social&logo=github)](https://github.com/prathimacode-hub/Treksy/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/Treksy?style=flat-square&logo=git)](https://github.com/prathimacode-hub/Treksy/network/members) |
 | 3. | [Ezy-Parking](https://github.com/prathimacode-hub/Ezy-Parking) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/Ezy-Parking?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/Ezy-Parking/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/Ezy-Parking?style=social&logo=github)](https://github.com/prathimacode-hub/Ezy-Parking/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/Ezy-Parking?style=social&logo=github)](https://github.com/prathimacode-hub/Ezy-Parking/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/Ezy-Parking?style=flat-square&logo=git)](https://github.com/prathimacode-hub/Ezy-Parking/network/members) |
  | 4. | [FarmArk](https://github.com/prathimacode-hub/FarmArk) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/FarmArk?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/FarmArk/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/FarmArk?style=social&logo=github)](https://github.com/prathimacode-hub/FarmArk/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/FarmArk?style=social&logo=github)](https://github.com/prathimacode-hub/FarmArk/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/FarmArk?style=flat-square&logo=git)](https://github.com/prathimacode-hub/FarmArk/network/members) |
+  | 5. | [Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/Awesome_Python_Scripts?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/Awesome_Python_Scripts?style=social&logo=github)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/Awesome_Python_Scripts?style=social&logo=github)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/Awesome_Python_Scripts?style=flat-square&logo=git)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/network/members) |
+   | 6. | [PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/PyAlgo-Tree?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/PyAlgo-Tree/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/PyAlgo-Tree?style=social&logo=github)](https://github.com/prathimacode-hub/PyAlgo-Tree/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/PyAlgo-Tree?style=social&logo=github)](https://github.com/prathimacode-hub/PyAlgo-Tree/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/PyAlgo-Tree?style=flat-square&logo=git)](https://github.com/prathimacode-hub/PyAlgo-Tree/network/members) |
 
 <h2>🔖Projects Overview</h2>
 
@@ -107,6 +109,14 @@ Ezy-Parking is a complete parking management system applying smart solutions for
 **4. FarmArk**
 
 FarmArk is an app designed for facilitation of farmers and address them with all the needed farming solutions for their greens to prosper and excel. 
+
+**4. Awesome_Python_Scripts**
+
+A Curated Collection of Awesome Python Scripts that will make you go wow. 
+
+**4. PyAlgo-Tree**
+
+PyAlgo-Tree aims to be a finest hub of various data structures and algorithms you need to know in python across different topics and fields.
 
 
 ## 👀Are You Feeling Overwhelmed?
