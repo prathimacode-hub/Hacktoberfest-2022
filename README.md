@@ -91,7 +91,10 @@ If this project helped you start with your open source journey or got you involv
  | 4. | [FarmArk](https://github.com/prathimacode-hub/FarmArk) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/FarmArk?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/FarmArk/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/FarmArk?style=social&logo=github)](https://github.com/prathimacode-hub/FarmArk/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/FarmArk?style=social&logo=github)](https://github.com/prathimacode-hub/FarmArk/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/FarmArk?style=flat-square&logo=git)](https://github.com/prathimacode-hub/FarmArk/network/members) |
   | 5. | [Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/Awesome_Python_Scripts?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/Awesome_Python_Scripts?style=social&logo=github)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/Awesome_Python_Scripts?style=social&logo=github)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/Awesome_Python_Scripts?style=flat-square&logo=git)](https://github.com/prathimacode-hub/Awesome_Python_Scripts/network/members) |
    | 6. | [PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/PyAlgo-Tree?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/PyAlgo-Tree/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/PyAlgo-Tree?style=social&logo=github)](https://github.com/prathimacode-hub/PyAlgo-Tree/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/PyAlgo-Tree?style=social&logo=github)](https://github.com/prathimacode-hub/PyAlgo-Tree/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/PyAlgo-Tree?style=flat-square&logo=git)](https://github.com/prathimacode-hub/PyAlgo-Tree/network/members) |
-
+   | 7. | [ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/ML-ProjectKart?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/ML-ProjectKart/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/ML-ProjectKart?style=social&logo=github)](https://github.com/prathimacode-hub/ML-ProjectKart/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/ML-ProjectKart?style=social&logo=github)](https://github.com/prathimacode-hub/ML-ProjectKart/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/ML-ProjectKart?style=flat-square&logo=git)](https://github.com/prathimacode-hub/ML-ProjectKart/network/members) |
+   
+   
+https://github.com/prathimacode-hub/ML-ProjectKart
 <h2>🔖Projects Overview</h2>
 
 **1. MedFlare**
@@ -110,13 +113,17 @@ Ezy-Parking is a complete parking management system applying smart solutions for
 
 FarmArk is an app designed for facilitation of farmers and address them with all the needed farming solutions for their greens to prosper and excel. 
 
-**4. Awesome_Python_Scripts**
+**5. Awesome_Python_Scripts**
 
 A Curated Collection of Awesome Python Scripts that will make you go wow. 
 
-**4. PyAlgo-Tree**
+**6. PyAlgo-Tree**
 
 PyAlgo-Tree aims to be a finest hub of various data structures and algorithms you need to know in python across different topics and fields.
+
+**7. ML-ProjectKart**
+
+ML-ProjectKart showcases the finest collection of all projects based on machine learning, deep learning, computer vision, natural language processing and everything.
 
 
 ## 👀Are You Feeling Overwhelmed?
