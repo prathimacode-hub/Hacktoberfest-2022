@@ -180,6 +180,18 @@ You can find our Code of Conduct [here](https://github.com/prathimacode-hub/Hack
 This project follows the [MIT License](https://github.com/prathimacode-hub/Hacktoberfest-2022/blob/main/LICENSE).
 
 
+## 😎 Hacktoberfest Mentors
+
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/unnikrishnan2002"><img src="https://avatars.githubusercontent.com/u/76985777?v=4" width="100px;" alt=""/><br /><sub><b>Unni Krishnan</b></sub></a></td>
+<td align="center"><a href="https://github.com/Knighthawk-Leo"><img src="https://avatars.githubusercontent.com/u/72437494?v=4" width="100px;" alt=""/><br /><sub><b>Sanskar Dwivedi</b></sub></a></td>
+<td align="center"><a href="https://github.com/Rishikavishnoi"><img src="https://avatars.githubusercontent.com/u/84177590?v=4" width="100px;" alt=""/><br /><sub><b>Rishika Vishnoi</b></sub></a></td>
+<td align="center"><a href="https://github.com/Harshil-Jani"><img src="https://avatars.githubusercontent.com/u/79367883?v=4" width="100px;" alt=""/><br /><sub><b>Harshil Jani</b></sub></a></td>
+  </tr>
+</table>
+
+
 <h2>🙂Project Admin</h2>
 
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=100px height=100px /></a>
