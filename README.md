@@ -152,6 +152,7 @@ This project is a part of HacktoberFest 2022
 </table>
 
 
+<!-- 
 <h2>✨Hall Of Fame</h2>   
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
@@ -159,14 +160,14 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-
+<!--
 <a href="https://github.com/prathimacode-hub/Hacktoberfest-2022/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=prathimacode-hub/Hacktoberfest-2022" />
-</a>
+</a> -->
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+<!-- ALL-CONTRIBUTORS-LIST:END --> 
 
 
 <h2>📜Code Of Conduct</h2>
