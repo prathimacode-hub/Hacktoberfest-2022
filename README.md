@@ -95,7 +95,6 @@ If this project helped you start with your open source journey or got you involv
    | 8. | [ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart) | [![GitHub issues](https://img.shields.io/github/issues/prathimacode-hub/ML-ProjectKart?color=red&logo=github&style=flat-square)](https://github.com/prathimacode-hub/ML-ProjectKart/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/prathimacode-hub/ML-ProjectKart?style=social&logo=github)](https://github.com/prathimacode-hub/ML-ProjectKart/pulls) | [![GitHub stars](https://img.shields.io/github/stars/prathimacode-hub/ML-ProjectKart?style=social&logo=github)](https://github.com/prathimacode-hub/ML-ProjectKart/stars) | [![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/ML-ProjectKart?style=flat-square&logo=git)](https://github.com/prathimacode-hub/ML-ProjectKart/network/members) |
    
    
-https://github.com/prathimacode-hub/ML-ProjectKart
 <h2>🔖Projects Overview</h2>
 
 **1. MedFlare**
